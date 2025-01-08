@@ -1,15 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.4">
   <diagram name="Page-1" id="RUc84Z8RD8a8QJgSkqrk">
-    <mxGraphModel dx="662" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pqviuhFqOC5agZO4Umv--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;A Tree&lt;br&gt;&lt;/h1&gt;&lt;p&gt;My attempt at a tree to generally follow to learn informatics ig.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="10" width="180" height="120" as="geometry" />
+          <mxGeometry x="630" y="50" width="180" height="140" as="geometry" />
         </mxCell>
         <UserObject label="Learncpp.com lessons 0-8" link="https://www.learncpp.com/" id="pqviuhFqOC5agZO4Umv--3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="361" y="120" width="119" height="80" as="geometry" />
+            <mxGeometry x="930" y="140" width="100" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pqviuhFqOC5agZO4Umv--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--8" target="pqviuhFqOC5agZO4Umv--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--8" value="This should teach you how to install cpp and give you some basic knowledge. From this you should remember these data structures in particular(int,bool,long long,char,string) as they will be used often, floats wont be required until later" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="145" width="244" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Make an account on Orac and codeforces." link="https://www.learncpp.com/" id="pqviuhFqOC5agZO4Umv--13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="930" y="250" width="100" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="orac.amt.edu.au" link="https://orac.amt.edu.au" id="pqviuhFqOC5agZO4Umv--15">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+            <mxGeometry x="1050" y="230" width="130" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://codeforces.com/" link="https://codeforces.com/" id="pqviuhFqOC5agZO4Umv--16">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+            <mxGeometry x="1050" y="290" width="130" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
