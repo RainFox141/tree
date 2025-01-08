@@ -1,12 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.4">
   <diagram name="Page-1" id="RUc84Z8RD8a8QJgSkqrk">
-    <mxGraphModel dx="548" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="662" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pqviuhFqOC5agZO4Umv--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;A Tree&lt;br&gt;&lt;/h1&gt;&lt;p&gt;My attempt at a tree to generally follow to learn informatics ig.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="10" width="180" height="120" as="geometry" />
         </mxCell>
+        <UserObject label="Learncpp.com lessons 0-8" link="https://www.learncpp.com/" id="pqviuhFqOC5agZO4Umv--3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="361" y="120" width="119" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
