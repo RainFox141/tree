@@ -1,426 +1,426 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.4">
   <diagram name="Page-1" id="RUc84Z8RD8a8QJgSkqrk">
-    <mxGraphModel dx="2756" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="3134" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pqviuhFqOC5agZO4Umv--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;A Tree&lt;br&gt;&lt;/h1&gt;&lt;p&gt;My attempt at a tree to generally follow to learn informatics ig.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;A Tree&lt;br&gt;&lt;/h1&gt;&lt;p&gt;My attempt at a tree to generally follow to learn informatics ig.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--3" target="pqviuhFqOC5agZO4Umv--13">
+        <mxCell id="pqviuhFqOC5agZO4Umv--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--3" target="pqviuhFqOC5agZO4Umv--13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Learncpp.com lessons 0-8, then 16,17." link="https://www.learncpp.com/" id="pqviuhFqOC5agZO4Umv--3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="930" y="140" width="100" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--8" target="pqviuhFqOC5agZO4Umv--3">
+        <mxCell id="pqviuhFqOC5agZO4Umv--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--8" target="pqviuhFqOC5agZO4Umv--3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--8" value="This should teach you how to install cpp and give you some basic knowledge. From this you should remember these data structures in particular(int,bool,long long,char,string,array,vector) as they will be used often, floats wont be required until later" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--8" value="This should teach you how to install cpp and give you some basic knowledge. From this you should remember these data structures in particular(int,bool,long long,char,string,array,vector) as they will be used often, floats wont be required until later" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1096" y="145" width="314" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--13" target="pqviuhFqOC5agZO4Umv--16">
+        <mxCell id="pqviuhFqOC5agZO4Umv--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--13" target="pqviuhFqOC5agZO4Umv--16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--13" target="pqviuhFqOC5agZO4Umv--15">
+        <mxCell id="pqviuhFqOC5agZO4Umv--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--13" target="pqviuhFqOC5agZO4Umv--15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--13" target="pqviuhFqOC5agZO4Umv--28">
+        <mxCell id="pqviuhFqOC5agZO4Umv--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--13" target="pqviuhFqOC5agZO4Umv--28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--13" target="pqviuhFqOC5agZO4Umv--38">
+        <mxCell id="pqviuhFqOC5agZO4Umv--39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--13" target="pqviuhFqOC5agZO4Umv--38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Make an account on Orac and Codeforces." id="pqviuhFqOC5agZO4Umv--13">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="930" y="240" width="100" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="orac.amt.edu.au" link="https://orac.amt.edu.au" id="pqviuhFqOC5agZO4Umv--15">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="1" vertex="1">
             <mxGeometry x="1080" y="210" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="https://codeforces.com/" link="https://codeforces.com/" id="pqviuhFqOC5agZO4Umv--16">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="1" vertex="1">
             <mxGeometry x="1080" y="290" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--28" target="pqviuhFqOC5agZO4Umv--31">
+        <mxCell id="pqviuhFqOC5agZO4Umv--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--28" target="pqviuhFqOC5agZO4Umv--31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--28">
+        <mxCell id="pqviuhFqOC5agZO4Umv--44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="980" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Make your own c++ template" id="pqviuhFqOC5agZO4Umv--28">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="770" y="380" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--29" target="pqviuhFqOC5agZO4Umv--31">
+        <mxCell id="pqviuhFqOC5agZO4Umv--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--29" target="pqviuhFqOC5agZO4Umv--31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--29" value="Your template should suit your own coding style and doesn&#39;t have to be the same as anyone else&#39;s template, here is a base that you should use.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="346" y="200" width="314" height="30" as="geometry" />
+        <mxCell id="pqviuhFqOC5agZO4Umv--29" value="Your template should suit your own coding style and doesn&#39;t have to be the same as anyone else&#39;s template, here is a base that you should use.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="86" y="180" width="314" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--31" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c586c0;&quot;&gt;#include&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&amp;lt;bits/stdc++.h&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c586c0;&quot;&gt;using&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;namespace&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;std&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;main&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;&amp;nbsp; &amp;nbsp; // freopen(&quot;addin.txt&quot;, &quot;r&quot;, stdin);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;&amp;nbsp; &amp;nbsp; // freopen(&quot;addout.txt&quot;, &quot;w&quot;, stdout); &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;&amp;nbsp; &amp;nbsp; // your input and output files.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;cin&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;sync_with_stdio&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;false&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;);&lt;/span&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;// these two just make cin/cout faster&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;cin&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;tie&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #b5cea8;&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;);&lt;/span&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;// how they work isn&#39;t important&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="310" y="320" width="386" height="220" as="geometry" />
+        <mxCell id="pqviuhFqOC5agZO4Umv--31" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c586c0;&quot;&gt;#include&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&amp;lt;bits/stdc++.h&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c586c0;&quot;&gt;using&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;namespace&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;std&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;main&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;&amp;nbsp; &amp;nbsp; // freopen(&quot;addin.txt&quot;, &quot;r&quot;, stdin);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;&amp;nbsp; &amp;nbsp; // freopen(&quot;addout.txt&quot;, &quot;w&quot;, stdout); &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;&amp;nbsp; &amp;nbsp; // your input and output files.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;cin&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;sync_with_stdio&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;false&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;);&lt;/span&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;// these two just make cin/cout faster&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;cin&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;tie&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #b5cea8;&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;);&lt;/span&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;// how they work isn&#39;t important&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="300" width="386" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--32" target="pqviuhFqOC5agZO4Umv--31">
+        <mxCell id="pqviuhFqOC5agZO4Umv--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--32" target="pqviuhFqOC5agZO4Umv--31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--32" value="The two &quot;freopen&quot; lines specify the input and output files, essentially they replace your cin and cout with the files specified, only required for orac problems that don&#39;t use standard in and standard out as the input and output. The #include &amp;lt;bits/stdc++.h&amp;gt; basically imports all the libraries you would need and the &quot;using namespace std;&quot; lets you not have to type std:: in front of everything : )." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="370" width="300" height="120" as="geometry" />
+        <mxCell id="pqviuhFqOC5agZO4Umv--32" value="The two &quot;freopen&quot; lines specify the input and output files, essentially they replace your cin and cout with the files specified, only required for orac problems that don&#39;t use standard in and standard out as the input and output. The #include &amp;lt;bits/stdc++.h&amp;gt; basically imports all the libraries you would need and the &quot;using namespace std;&quot; lets you not have to type std:: in front of everything : )." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="350" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--38" target="pqviuhFqOC5agZO4Umv--42">
+        <mxCell id="pqviuhFqOC5agZO4Umv--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--38" target="pqviuhFqOC5agZO4Umv--42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--38" target="pqviuhFqOC5agZO4Umv--46">
+        <mxCell id="pqviuhFqOC5agZO4Umv--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--38" target="pqviuhFqOC5agZO4Umv--46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Learn how to cin/cout" id="pqviuhFqOC5agZO4Umv--38">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1070" y="380" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--40" target="pqviuhFqOC5agZO4Umv--38">
+        <mxCell id="pqviuhFqOC5agZO4Umv--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--40" target="pqviuhFqOC5agZO4Umv--38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--40" value="Cin will read the first string,int,char(whichever type the variable that your writing to is), same for cout. Note that cout cannot print out all data structures, and that you should instead iterate through what your trying to print using a for loop." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--40" value="Cin will read the first string,int,char(whichever type the variable that your writing to is), same for cout. Note that cout cannot print out all data structures, and that you should instead iterate through what your trying to print using a for loop." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1240" y="377.5" width="280" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--42" target="pqviuhFqOC5agZO4Umv--51">
+        <mxCell id="pqviuhFqOC5agZO4Umv--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--42" target="pqviuhFqOC5agZO4Umv--51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Do your first Orac problem" link="https://orac.amt.edu.au/problem/332/" id="pqviuhFqOC5agZO4Umv--42">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="920" y="520" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Write a program to read the input for this question, then cout the input in the same format.(please do not attempt to solve)&lt;/div&gt;" link="https://orac.amt.edu.au/problem/1101/" id="pqviuhFqOC5agZO4Umv--46">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1190" y="490" width="160" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--48" target="pqviuhFqOC5agZO4Umv--46">
+        <mxCell id="pqviuhFqOC5agZO4Umv--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--48" target="pqviuhFqOC5agZO4Umv--46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--48" value="To create a new line in c++, use&amp;nbsp;&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color: #d7ba7d;&quot;&gt;\n&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt; " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--48" value="To create a new line in c++, use&amp;nbsp;&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color: #d7ba7d;&quot;&gt;\n&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt; " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1390" y="500" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--51" target="pqviuhFqOC5agZO4Umv--55">
+        <mxCell id="pqviuhFqOC5agZO4Umv--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--51" target="pqviuhFqOC5agZO4Umv--55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Try the starter problems.(you don&#39;t have to do all of them, just until your comfortable with solving them)" link="https://orac.amt.edu.au/hub/personal/" id="pqviuhFqOC5agZO4Umv--51">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="900" y="640" width="160" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--53" target="pqviuhFqOC5agZO4Umv--51">
+        <mxCell id="pqviuhFqOC5agZO4Umv--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--53" target="pqviuhFqOC5agZO4Umv--51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--53" value="You might see the constraints and panic, but its ok ,the grader can do roughly 100 million calculations in one second, so you don&#39;t have to worry about going over the time limit yet." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--53" value="You might see the constraints and panic, but its ok ,the grader can do roughly 100 million calculations in one second, so you don&#39;t have to worry about going over the time limit yet." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1110" y="630" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--55" target="pqviuhFqOC5agZO4Umv--59">
+        <mxCell id="pqviuhFqOC5agZO4Umv--66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--55" target="pqviuhFqOC5agZO4Umv--59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="The basics of time and space complexity.(Just keep this in mind for now)" link="https://en.wikipedia.org/wiki/Time_complexity" id="pqviuhFqOC5agZO4Umv--55">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="900" y="840" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--56" target="pqviuhFqOC5agZO4Umv--51">
+        <mxCell id="pqviuhFqOC5agZO4Umv--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--56" target="pqviuhFqOC5agZO4Umv--51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--56" value="Not relevant yet but ints only go up to 2^32, around one billion, while long long can be as large as 10^18." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--56" value="Not relevant yet but ints only go up to 2^32, around one billion, while long long can be as large as 10^18." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="645" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--59" target="pqviuhFqOC5agZO4Umv--78">
+        <mxCell id="pqviuhFqOC5agZO4Umv--79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--59" target="pqviuhFqOC5agZO4Umv--78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--59" value="The thinking process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--59" value="The thinking process" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="897.5" y="1000" width="165" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--60" target="pqviuhFqOC5agZO4Umv--62">
+        <mxCell id="pqviuhFqOC5agZO4Umv--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--60" target="pqviuhFqOC5agZO4Umv--62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--60" target="pqviuhFqOC5agZO4Umv--63">
+        <mxCell id="pqviuhFqOC5agZO4Umv--65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--60" target="pqviuhFqOC5agZO4Umv--63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--60" value="Two good documentation websites for c++ that you should use if you would like to search up something" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--60" value="Two good documentation websites for c++ that you should use if you would like to search up something" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1510" y="150" width="200" height="75" as="geometry" />
         </mxCell>
         <UserObject label="cppreference" link="https://en.cppreference.com/w/" id="pqviuhFqOC5agZO4Umv--62">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="1" vertex="1">
             <mxGeometry x="1480" y="270" width="110" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Programiz" link="https://www.programiz.com/" id="pqviuhFqOC5agZO4Umv--63">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="1" vertex="1">
             <mxGeometry x="1630" y="270" width="110" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--67" target="pqviuhFqOC5agZO4Umv--59">
+        <mxCell id="pqviuhFqOC5agZO4Umv--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--67" target="pqviuhFqOC5agZO4Umv--59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--67" value="If you find that you cannot think of the solution straight away which is completely normal, try breaking up the problem, make it simpler, also look at the subtasks as they usually simplify the question for you and hints at the final solution. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--67" value="If you find that you cannot think of the solution straight away which is completely normal, try breaking up the problem, make it simpler, also look at the subtasks as they usually simplify the question for you and hints at the final solution. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1130" y="975" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--69" target="pqviuhFqOC5agZO4Umv--59">
+        <mxCell id="pqviuhFqOC5agZO4Umv--71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--69" target="pqviuhFqOC5agZO4Umv--59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--69" value="Using pen and paper is extremely important as it&#39;s a lot clearer to draw a &lt;br&gt;problem out than to try to think of the full solution in your head. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--69" value="Using pen and paper is extremely important as it&#39;s a lot clearer to draw a &lt;br&gt;problem out than to try to think of the full solution in your head. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="980" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--72" target="pqviuhFqOC5agZO4Umv--59">
+        <mxCell id="pqviuhFqOC5agZO4Umv--74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--72" target="pqviuhFqOC5agZO4Umv--59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--72" value="Prove your solution works before you start implementing, its better to spend some time to make sure your solution is to correct than have the judge tell you that it&#39;s wrong. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--72" value="Prove your solution works before you start implementing, its better to spend some time to make sure your solution is to correct than have the judge tell you that it&#39;s wrong. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1138" y="870" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--75" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--75" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="1" vertex="1">
           <mxGeometry x="280" y="1210" width="1400" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--78" target="pqviuhFqOC5agZO4Umv--81">
+        <mxCell id="pqviuhFqOC5agZO4Umv--82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--78" target="pqviuhFqOC5agZO4Umv--81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--78" value="&#xa;That&#39;s pretty much it for the basics of informatics with c++, at this &#xa;point you should be able to solve at least the first 2-3 aio problems. &#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--78" value="&#xa;That&#39;s pretty much it for the basics of informatics with c++, at this &#xa;point you should be able to solve at least the first 2-3 aio problems. &#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="885" y="1090" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--80" target="pqviuhFqOC5agZO4Umv--89">
+        <mxCell id="pqviuhFqOC5agZO4Umv--91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--80" target="pqviuhFqOC5agZO4Umv--89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--80" target="pqviuhFqOC5agZO4Umv--88">
+        <mxCell id="pqviuhFqOC5agZO4Umv--92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--80" target="pqviuhFqOC5agZO4Umv--88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Arrays and Hashing" link="https://neetcode.io/problems/duplicate-integer" id="pqviuhFqOC5agZO4Umv--80">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="920" y="1400" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--81" target="pqviuhFqOC5agZO4Umv--80">
+        <mxCell id="pqviuhFqOC5agZO4Umv--85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--81" target="pqviuhFqOC5agZO4Umv--80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--81" value="Learn about sets and maps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--81" value="Learn about sets and maps" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--83" target="pqviuhFqOC5agZO4Umv--81">
+        <mxCell id="pqviuhFqOC5agZO4Umv--84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--83" target="pqviuhFqOC5agZO4Umv--81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--83" value="In informatics your gonna have to find things by yourself, so i&#39;m gonna leave you to learn about these yourself" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--83" value="In informatics your gonna have to find things by yourself, so i&#39;m gonna leave you to learn about these yourself" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1096" y="1275" width="174" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--86" target="pqviuhFqOC5agZO4Umv--80">
+        <mxCell id="pqviuhFqOC5agZO4Umv--87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--86" target="pqviuhFqOC5agZO4Umv--80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--86" value="Watch the solution video and do try some of the other questions in the same category." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--86" value="Watch the solution video and do try some of the other questions in the same category." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1096" y="1392.5" width="134" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--88" target="pqviuhFqOC5agZO4Umv--93">
+        <mxCell id="pqviuhFqOC5agZO4Umv--95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--88" target="pqviuhFqOC5agZO4Umv--93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Sliding window" link="https://neetcode.io/problems/buy-and-sell-crypto" id="pqviuhFqOC5agZO4Umv--88">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1060" y="1540" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--89" target="pqviuhFqOC5agZO4Umv--93">
+        <mxCell id="pqviuhFqOC5agZO4Umv--94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--89" target="pqviuhFqOC5agZO4Umv--93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Two Pointers" link="https://neetcode.io/problems/is-palindrome" id="pqviuhFqOC5agZO4Umv--89">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="810" y="1540" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--90" value="These two techniques are somewhat similar and commonly found in questions where the solution has a time complexity of O(N) (when the constraint is &amp;gt;= 10^5) however this is not necessarily true." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--90" value="These two techniques are somewhat similar and commonly found in questions where the solution has a time complexity of O(N) (when the constraint is &amp;gt;= 10^5) however this is not necessarily true." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="1520" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--93" target="pqviuhFqOC5agZO4Umv--104">
+        <mxCell id="pqviuhFqOC5agZO4Umv--108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--93" target="pqviuhFqOC5agZO4Umv--104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Stack" link="https://neetcode.io/problems/validate-parentheses" id="pqviuhFqOC5agZO4Umv--93">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="930" y="1650" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--96" target="pqviuhFqOC5agZO4Umv--93">
+        <mxCell id="pqviuhFqOC5agZO4Umv--97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--96" target="pqviuhFqOC5agZO4Umv--93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Try this problem" link="https://codeforces.com/problemset/problem/756/C" id="pqviuhFqOC5agZO4Umv--96">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1080" y="1650" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Greedy" link="https://neetcode.io/problems/hand-of-straights" id="pqviuhFqOC5agZO4Umv--98">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="780" y="1985" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--99" target="pqviuhFqOC5agZO4Umv--98">
+        <mxCell id="pqviuhFqOC5agZO4Umv--101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--99" target="pqviuhFqOC5agZO4Umv--98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--99" value="&lt;div&gt;A greedy algorithm is a problem-solving technique that chooses the best option at each step, without considering the overall solution. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--99" value="&lt;div&gt;A greedy algorithm is a problem-solving technique that chooses the best option at each step, without considering the overall solution. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="1970" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--104" target="pqviuhFqOC5agZO4Umv--105">
+        <mxCell id="pqviuhFqOC5agZO4Umv--106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--104" target="pqviuhFqOC5agZO4Umv--105" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--104" target="pqviuhFqOC5agZO4Umv--98">
+        <mxCell id="pqviuhFqOC5agZO4Umv--107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--104" target="pqviuhFqOC5agZO4Umv--98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--104" target="pqviuhFqOC5agZO4Umv--111">
+        <mxCell id="pqviuhFqOC5agZO4Umv--115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--104" target="pqviuhFqOC5agZO4Umv--111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--104" value="Sorting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--104" value="Sorting" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="1800" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--105" value="Problems can sometimes be solved by first sorting the input, then running an algorithm to get the maximum/minimum result. sorts in O(NlogN) time." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--105" value="Problems can sometimes be solved by first sorting the input, then running an algorithm to get the maximum/minimum result. sorts in O(NlogN) time." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1110" y="1810" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--109" target="pqviuhFqOC5agZO4Umv--98">
+        <mxCell id="pqviuhFqOC5agZO4Umv--110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--109" target="pqviuhFqOC5agZO4Umv--98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Try this question, it involves sorting and greedy." link="https://codeforces.com/problemset/problem/337/A" id="pqviuhFqOC5agZO4Umv--109">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="610" y="2040" width="120" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--111" target="pqviuhFqOC5agZO4Umv--141">
+        <mxCell id="pqviuhFqOC5agZO4Umv--143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--111" target="pqviuhFqOC5agZO4Umv--141" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Dynamic Programming" link="https://neetcode.io/problems/house-robber" id="pqviuhFqOC5agZO4Umv--111">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1110" y="1985" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--113" target="pqviuhFqOC5agZO4Umv--111">
+        <mxCell id="pqviuhFqOC5agZO4Umv--114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--113" target="pqviuhFqOC5agZO4Umv--111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--113" value="A thought process and a technique, it involves breaking the problem into small subproblems, then using the solution to each subproblem to get the answer to the final problem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--113" value="A thought process and a technique, it involves breaking the problem into small subproblems, then using the solution to each subproblem to get the answer to the final problem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1270" y="1870" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--116" target="pqviuhFqOC5agZO4Umv--119">
+        <mxCell id="pqviuhFqOC5agZO4Umv--120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--116" target="pqviuhFqOC5agZO4Umv--119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Binary Search" link="https://neetcode.io/problems/binary-search" id="pqviuhFqOC5agZO4Umv--116">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1630" y="1980" width="120" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--117" target="pqviuhFqOC5agZO4Umv--116">
+        <mxCell id="pqviuhFqOC5agZO4Umv--118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--117" target="pqviuhFqOC5agZO4Umv--116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--117" value="An algorithm used to find a value in a sorted array in O(logN) time. You can normally tell if you need to use Binary search if the question has a very high constraint usually &amp;gt; 10^10." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--117" value="An algorithm used to find a value in a sorted array in O(logN) time. You can normally tell if you need to use Binary search if the question has a very high constraint usually &amp;gt; 10^10." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1850" y="1927.5" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--119" value="Try doing some problems with the tag &quot;binary search&quot; on codeforces." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--119" value="Try doing some problems with the tag &quot;binary search&quot; on codeforces." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1630" y="2120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--121" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--121" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="1" vertex="1">
           <mxGeometry x="-410" y="2310" width="3340" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--122" value="You should be able to get gold with these techniques" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--122" value="You should be able to get gold with these techniques" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="2240" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--123" target="pqviuhFqOC5agZO4Umv--124">
+        <mxCell id="pqviuhFqOC5agZO4Umv--127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--123" target="pqviuhFqOC5agZO4Umv--124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--123" value="Advanced Data Structures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--123" value="Advanced Data Structures" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1331" y="2017.5" width="109" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--124" target="pqviuhFqOC5agZO4Umv--141">
+        <mxCell id="pqviuhFqOC5agZO4Umv--142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--124" target="pqviuhFqOC5agZO4Umv--141" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--124" target="pqviuhFqOC5agZO4Umv--146">
+        <mxCell id="pqviuhFqOC5agZO4Umv--147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--124" target="pqviuhFqOC5agZO4Umv--146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--124" value="Matrix" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--124" value="Matrix" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1338.25" y="2120" width="94.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--125" target="pqviuhFqOC5agZO4Umv--124">
+        <mxCell id="pqviuhFqOC5agZO4Umv--126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--125" target="pqviuhFqOC5agZO4Umv--124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--125" value="It is really just a 2D array/vector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--125" value="It is really just a 2D array/vector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1480" y="2115" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--128" target="pqviuhFqOC5agZO4Umv--125">
+        <mxCell id="pqviuhFqOC5agZO4Umv--130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--128" target="pqviuhFqOC5agZO4Umv--125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--128" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;vector&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;vector&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;matrix&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;array&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;[x][y];&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--128" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;vector&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;vector&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;matrix&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;array&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;[x][y];&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1425" y="2190" width="220" height="50" as="geometry" />
         </mxCell>
         <UserObject label="Backtracking/Recursion" link="https://neetcode.io/problems/subsets" id="pqviuhFqOC5agZO4Umv--131">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="160" y="2040" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--132" target="pqviuhFqOC5agZO4Umv--131">
+        <mxCell id="pqviuhFqOC5agZO4Umv--133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--132" target="pqviuhFqOC5agZO4Umv--131" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--132" value="A function that calls itself, usually not a question by itself, but key to understanding more advanced topics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--132" value="A function that calls itself, usually not a question by itself, but key to understanding more advanced topics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70" y="2015" width="140" height="110" as="geometry" />
         </mxCell>
         <UserObject label="Prefix sum" link="https://neetcode.io/problems/trapping-rain-water" id="pqviuhFqOC5agZO4Umv--134">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2010" y="2100" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--135" target="pqviuhFqOC5agZO4Umv--134">
+        <mxCell id="pqviuhFqOC5agZO4Umv--136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--135" target="pqviuhFqOC5agZO4Umv--134" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--135" value="A commonly used technique to decrease time complexity or to simply calculate values, although the example problem is quite hard, it does a good job showing how effective prefix sum can be." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--135" value="A commonly used technique to decrease time complexity or to simply calculate values, although the example problem is quite hard, it does a good job showing how effective prefix sum can be." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2160" y="2080" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--138" target="pqviuhFqOC5agZO4Umv--134">
+        <mxCell id="pqviuhFqOC5agZO4Umv--140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--138" target="pqviuhFqOC5agZO4Umv--134" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--138" value="It can also be used to calculate the sub of a subarray in O(N) time and get the value on O(1) time. This can be done by taking the prefix sum at index r, and subtracting it by the prefix sum at index l, this gives you the sum of the subarray with a range of l,r" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--138" value="It can also be used to calculate the sub of a subarray in O(N) time and get the value on O(1) time. This can be done by taking the prefix sum at index r, and subtracting it by the prefix sum at index l, this gives you the sum of the subarray with a range of l,r" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1900" y="2220" width="320" height="90" as="geometry" />
         </mxCell>
         <UserObject label="2D Dynamic Programming" link="https://neetcode.io/problems/count-paths" id="pqviuhFqOC5agZO4Umv--141">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1180" y="2470" width="120" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--145" target="pqviuhFqOC5agZO4Umv--154">
+        <mxCell id="pqviuhFqOC5agZO4Umv--155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--145" target="pqviuhFqOC5agZO4Umv--154" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Introduction to Graphs/Trees" link="https://youtu.be/MCX0uo29fqE" id="pqviuhFqOC5agZO4Umv--145">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1318.75" y="2790" width="134.5" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--146" target="pqviuhFqOC5agZO4Umv--145">
+        <mxCell id="pqviuhFqOC5agZO4Umv--151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--146" target="pqviuhFqOC5agZO4Umv--145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="More on Stacks and Queues" link="https://youtu.be/0blFesJgmSM" id="pqviuhFqOC5agZO4Umv--146">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1326" y="2590" width="120" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--149" target="pqviuhFqOC5agZO4Umv--146">
+        <mxCell id="pqviuhFqOC5agZO4Umv--150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--149" target="pqviuhFqOC5agZO4Umv--146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Solve This" link="https://orac.amt.edu.au/problem/139/" id="pqviuhFqOC5agZO4Umv--149">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="1" vertex="1">
             <mxGeometry x="1500" y="2595" width="95" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--152" target="pqviuhFqOC5agZO4Umv--145">
+        <mxCell id="pqviuhFqOC5agZO4Umv--153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--152" target="pqviuhFqOC5agZO4Umv--145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Write a program to make an adjacency list for this question.(don&#39;t solve it)" link="https://orac.amt.edu.au/problem/1383/" id="pqviuhFqOC5agZO4Umv--152">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1510" y="2780" width="140" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Depth First Search (DFS)" link="https://youtu.be/wU-FW8KZqjw" id="pqviuhFqOC5agZO4Umv--154">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1323.25" y="2975" width="124.5" height="50" as="geometry" />
           </mxCell>
         </UserObject>
