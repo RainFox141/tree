@@ -387,6 +387,9 @@
             <mxGeometry x="1180" y="2470" width="120" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="pqviuhFqOC5agZO4Umv--155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--145" target="pqviuhFqOC5agZO4Umv--154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Introduction to Graphs/Trees" link="https://youtu.be/MCX0uo29fqE" id="pqviuhFqOC5agZO4Umv--145">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="1318.75" y="2790" width="134.5" height="50" as="geometry" />
@@ -406,6 +409,19 @@
         <UserObject label="Solve This" link="https://orac.amt.edu.au/problem/139/" id="pqviuhFqOC5agZO4Umv--149">
           <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
             <mxGeometry x="1500" y="2595" width="95" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pqviuhFqOC5agZO4Umv--153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--152" target="pqviuhFqOC5agZO4Umv--145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Write a program to make an adjacency list for this question.(don&#39;t solve it)" link="https://orac.amt.edu.au/problem/1383/" id="pqviuhFqOC5agZO4Umv--152">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1510" y="2780" width="140" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Depth First Search (DFS)" link="https://youtu.be/wU-FW8KZqjw" id="pqviuhFqOC5agZO4Umv--154">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1323.25" y="2975" width="124.5" height="50" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
