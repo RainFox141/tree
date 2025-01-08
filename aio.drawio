@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.4">
   <diagram name="Page-1" id="RUc84Z8RD8a8QJgSkqrk">
-    <mxGraphModel dx="2756" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2794" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,12 @@
         <mxCell id="pqviuhFqOC5agZO4Umv--78" value="&#xa;That&#39;s pretty much it for the basics of informatics with c++, at this &#xa;point you should be able to solve at least the first 2-3 aio problems. &#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="885" y="1090" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--80" target="pqviuhFqOC5agZO4Umv--89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--80" target="pqviuhFqOC5agZO4Umv--88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Arrays and Hashing" link="https://neetcode.io/problems/duplicate-integer" id="pqviuhFqOC5agZO4Umv--80">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="920" y="1400" width="120" height="60" as="geometry" />
@@ -215,9 +221,9 @@
         <mxCell id="pqviuhFqOC5agZO4Umv--86" value="Watch the solution video and do try some of the other questions in the same category." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1096" y="1392.5" width="134" height="75" as="geometry" />
         </mxCell>
-        <UserObject label="Sliding window" link="https://neetcode.io/problems/is-palindrome" id="pqviuhFqOC5agZO4Umv--88">
+        <UserObject label="Sliding window" link="https://neetcode.io/problems/buy-and-sell-crypto" id="pqviuhFqOC5agZO4Umv--88">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1050" y="1540" width="100" height="40" as="geometry" />
+            <mxGeometry x="1060" y="1540" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Two Pointers" link="https://neetcode.io/problems/is-palindrome" id="pqviuhFqOC5agZO4Umv--89">
@@ -225,6 +231,9 @@
             <mxGeometry x="810" y="1540" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="pqviuhFqOC5agZO4Umv--90" value="These two techniques are somewhat similar and commonly found in questions where the solution has a time complexity of O(N) (when the constraint is &amp;gt;= 10^5) however this is not necessarily true." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1520" width="190" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
