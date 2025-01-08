@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.4">
   <diagram name="Page-1" id="RUc84Z8RD8a8QJgSkqrk">
-    <mxGraphModel dx="7293" dy="2760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2794" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,7 +315,7 @@
         <mxCell id="pqviuhFqOC5agZO4Umv--118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--117" target="pqviuhFqOC5agZO4Umv--116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--117" value="An algorithm used to find a value in a sorted array in O(logN) time. You can normally tell if you need to use Binary search if the question has a very high constraint e.g. usually &amp;gt; 10^10." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pqviuhFqOC5agZO4Umv--117" value="An algorithm used to find a value in a sorted array in O(logN) time. You can normally tell if you need to use Binary search if the question has a very high constraint usually &amp;gt; 10^10." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1850" y="1927.5" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="pqviuhFqOC5agZO4Umv--119" value="Try doing some problems with the tag &quot;binary search&quot; on codeforces." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
