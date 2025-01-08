@@ -126,6 +126,9 @@
         <mxCell id="pqviuhFqOC5agZO4Umv--53" value="You might see the constraints and panic, but its ok ,the grader can do roughly 100 million calculations in one second, so you don&#39;t have to worry about going over the time limit yet." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1110" y="630" width="300" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--55" target="pqviuhFqOC5agZO4Umv--59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="The basics of time and space complexity.(Just keep this in mind for now)" link="https://en.wikipedia.org/wiki/Time_complexity" id="pqviuhFqOC5agZO4Umv--55">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="900" y="840" width="160" height="60" as="geometry" />
@@ -159,6 +162,18 @@
             <mxGeometry x="1630" y="270" width="110" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="pqviuhFqOC5agZO4Umv--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--67" target="pqviuhFqOC5agZO4Umv--59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--67" value="If you find that you cannot think of the solution straight away which is completely normal, try breaking up the problem, make it simpler, also look at the subtasks as they usually simplify the question for you and hints at the final solution. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="975" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--69" target="pqviuhFqOC5agZO4Umv--59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--69" value="Using pen and paper is extremely important as it&#39;s a lot clearer to draw a &lt;br&gt;problem out than to try to think of the full solution in your head " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="980" width="210" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
