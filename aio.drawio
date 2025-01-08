@@ -112,7 +112,10 @@
         <mxCell id="pqviuhFqOC5agZO4Umv--48" value="To create a new line in c++, use&amp;nbsp;&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color: #d7ba7d;&quot;&gt;\n&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt; " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1390" y="500" width="180" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="Try the starter problems.(you don&#39;t have to do all of them, just until your comfortable with solving them)" id="pqviuhFqOC5agZO4Umv--51">
+        <mxCell id="pqviuhFqOC5agZO4Umv--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--51" target="pqviuhFqOC5agZO4Umv--55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Try the starter problems.(you don&#39;t have to do all of them, just until your comfortable with solving them)" link="https://orac.amt.edu.au/hub/personal/" id="pqviuhFqOC5agZO4Umv--51">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="900" y="640" width="160" height="70" as="geometry" />
           </mxCell>
@@ -123,6 +126,39 @@
         <mxCell id="pqviuhFqOC5agZO4Umv--53" value="You might see the constraints and panic, but its ok ,the grader can do roughly 100 million calculations in one second, so you don&#39;t have to worry about going over the time limit yet." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1110" y="630" width="300" height="90" as="geometry" />
         </mxCell>
+        <UserObject label="The basics of time and space complexity.(Just keep this in mind for now)" link="https://en.wikipedia.org/wiki/Time_complexity" id="pqviuhFqOC5agZO4Umv--55">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="900" y="840" width="160" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pqviuhFqOC5agZO4Umv--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--56" target="pqviuhFqOC5agZO4Umv--51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--56" value="Not relevant yet but ints only go up to 2^32, around one billion, while long long can be as large as 10^18" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="645" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--59" value="The thinking process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="897.5" y="1000" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--60" target="pqviuhFqOC5agZO4Umv--62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--60" target="pqviuhFqOC5agZO4Umv--63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--60" value="Two good documentation websites for c++ that you should use if you would like to search up something" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="150" width="200" height="75" as="geometry" />
+        </mxCell>
+        <UserObject label="cppreference" link="https://en.cppreference.com/w/" id="pqviuhFqOC5agZO4Umv--62">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+            <mxGeometry x="1480" y="270" width="110" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Programiz" link="https://www.programiz.com/" id="pqviuhFqOC5agZO4Umv--63">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+            <mxGeometry x="1630" y="270" width="110" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
