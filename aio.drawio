@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.4">
   <diagram name="Page-1" id="RUc84Z8RD8a8QJgSkqrk">
-    <mxGraphModel dx="3134" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2635" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,6 +94,9 @@
           <mxGeometry x="1240" y="377.5" width="280" height="65" as="geometry" />
         </mxCell>
         <mxCell id="pqviuhFqOC5agZO4Umv--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--42" target="pqviuhFqOC5agZO4Umv--51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--42" target="kBhUcV-QLuzDnmDBkeBW-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Do your first Orac problem" link="https://orac.amt.edu.au/problem/332/" id="pqviuhFqOC5agZO4Umv--42">
@@ -243,19 +246,22 @@
         <mxCell id="pqviuhFqOC5agZO4Umv--108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--93" target="pqviuhFqOC5agZO4Umv--104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--93" target="pqviuhFqOC5agZO4Umv--96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Stack" link="https://neetcode.io/problems/validate-parentheses" id="pqviuhFqOC5agZO4Umv--93">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="930" y="1650" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--96" target="pqviuhFqOC5agZO4Umv--93" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <UserObject label="Try this problem" link="https://codeforces.com/problemset/problem/756/C" id="pqviuhFqOC5agZO4Umv--96">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1080" y="1650" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--98" target="pqviuhFqOC5agZO4Umv--109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Greedy" link="https://neetcode.io/problems/hand-of-straights" id="pqviuhFqOC5agZO4Umv--98">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="780" y="1985" width="100" height="40" as="geometry" />
@@ -281,9 +287,6 @@
         </mxCell>
         <mxCell id="pqviuhFqOC5agZO4Umv--105" value="Problems can sometimes be solved by first sorting the input, then running an algorithm to get the maximum/minimum result. sorts in O(NlogN) time." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1110" y="1810" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pqviuhFqOC5agZO4Umv--110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--109" target="pqviuhFqOC5agZO4Umv--98" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Try this question, it involves sorting and greedy." link="https://codeforces.com/problemset/problem/337/A" id="pqviuhFqOC5agZO4Umv--109">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -356,7 +359,7 @@
         </mxCell>
         <UserObject label="Backtracking/Recursion" link="https://neetcode.io/problems/subsets" id="pqviuhFqOC5agZO4Umv--131">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="160" y="2040" width="120" height="60" as="geometry" />
+            <mxGeometry x="160" y="2030" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="pqviuhFqOC5agZO4Umv--133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--132" target="pqviuhFqOC5agZO4Umv--131" edge="1">
@@ -390,6 +393,9 @@
         <mxCell id="pqviuhFqOC5agZO4Umv--155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--145" target="pqviuhFqOC5agZO4Umv--154" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--145" target="pqviuhFqOC5agZO4Umv--152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Introduction to Graphs/Trees" link="https://youtu.be/MCX0uo29fqE" id="pqviuhFqOC5agZO4Umv--145">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1318.75" y="2790" width="134.5" height="50" as="geometry" />
@@ -398,22 +404,19 @@
         <mxCell id="pqviuhFqOC5agZO4Umv--151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--146" target="pqviuhFqOC5agZO4Umv--145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqviuhFqOC5agZO4Umv--146" target="pqviuhFqOC5agZO4Umv--149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="More on Stacks and Queues" link="https://youtu.be/0blFesJgmSM" id="pqviuhFqOC5agZO4Umv--146">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1326" y="2590" width="120" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--149" target="pqviuhFqOC5agZO4Umv--146" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <UserObject label="Solve This" link="https://orac.amt.edu.au/problem/139/" id="pqviuhFqOC5agZO4Umv--149">
           <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="1" vertex="1">
             <mxGeometry x="1500" y="2595" width="95" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pqviuhFqOC5agZO4Umv--153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--152" target="pqviuhFqOC5agZO4Umv--145" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <UserObject label="Write a program to make an adjacency list for this question.(don&#39;t solve it)" link="https://orac.amt.edu.au/problem/1383/" id="pqviuhFqOC5agZO4Umv--152">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1510" y="2780" width="140" height="70" as="geometry" />
@@ -424,6 +427,51 @@
             <mxGeometry x="1323.25" y="2975" width="124.5" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBhUcV-QLuzDnmDBkeBW-3" target="pqviuhFqOC5agZO4Umv--46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-3" value="You should compile in the terminal using the following command,&lt;br&gt;&quot;g++ -Wall -Wextra -Wshadow -O2 -g -o file file.cpp&quot; without the &quot;&quot;, then to to run the file run ./file in the terminal. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="580" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kBhUcV-QLuzDnmDBkeBW-5" target="kBhUcV-QLuzDnmDBkeBW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBhUcV-QLuzDnmDBkeBW-5" target="kBhUcV-QLuzDnmDBkeBW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBhUcV-QLuzDnmDBkeBW-5" target="kBhUcV-QLuzDnmDBkeBW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-5" value="Debugging" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-7" value="Doesn&#39;t compile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBhUcV-QLuzDnmDBkeBW-8" target="kBhUcV-QLuzDnmDBkeBW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-8" value="Make sure you have no errors in your code, check for &quot;;&quot; at the end of lines, and whether you accidentally added something. Vscode will usually tell you if you did something wrong." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="891" width="200" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-10" value="Compiles but breaks when running(Runtime Error)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="780" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBhUcV-QLuzDnmDBkeBW-11" target="kBhUcV-QLuzDnmDBkeBW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-11" value="This usually means that your code had a segmentation fault, check for any flags during compile, then check your arrays as seg fault basically occurs when your trying to access out of bounds. If you can&#39;t figure out where it is segfaulting, you can run a binary search on your code by commenting out half of it at a time until you find the line that is causing the error." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="891" width="230" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-16" value="Runs but doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="775" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBhUcV-QLuzDnmDBkeBW-17" target="kBhUcV-QLuzDnmDBkeBW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBhUcV-QLuzDnmDBkeBW-17" value="Check your variables, you might be changing the wrong ones, this really just comes with experience and the only way to get better is through practice. If your code runs and absolutely nothing happens, check if you actually cin properly." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="880" width="170" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
