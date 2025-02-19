@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.5">
+  <diagram name="Page-1" id="RUc84Z8RD8a8QJgSkqrk">
+    <mxGraphModel dx="2794" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pqviuhFqOC5agZO4Umv--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;A Tree&lt;br&gt;&lt;/h1&gt;&lt;p&gt;My attempt at a tree to generally follow to learn informatics ig.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--3" target="pqviuhFqOC5agZO4Umv--13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Learncpp.com lessons 0-8, then 16,17." link="https://www.learncpp.com/" id="pqviuhFqOC5agZO4Umv--3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="930" y="140" width="100" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pqviuhFqOC5agZO4Umv--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--8" target="pqviuhFqOC5agZO4Umv--3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--8" value="This should teach you how to install cpp and give you some basic knowledge. From this you should remember these data structures in particular(int,bool,long long,char,string,array,vector) as they will be used often, floats wont be required until later" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1096" y="145" width="314" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--13" target="pqviuhFqOC5agZO4Umv--16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--13" target="pqviuhFqOC5agZO4Umv--15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--13" target="pqviuhFqOC5agZO4Umv--28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--13" target="pqviuhFqOC5agZO4Umv--38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Make an account on Orac and Codeforces." id="pqviuhFqOC5agZO4Umv--13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="930" y="240" width="100" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="orac.amt.edu.au" link="https://orac.amt.edu.au" id="pqviuhFqOC5agZO4Umv--15">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="1" vertex="1">
+            <mxGeometry x="1080" y="210" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://codeforces.com/" link="https://codeforces.com/" id="pqviuhFqOC5agZO4Umv--16">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="1" vertex="1">
+            <mxGeometry x="1080" y="290" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pqviuhFqOC5agZO4Umv--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--28" target="pqviuhFqOC5agZO4Umv--31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Make your own c++ template" id="pqviuhFqOC5agZO4Umv--28">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="770" y="380" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pqviuhFqOC5agZO4Umv--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--29" target="pqviuhFqOC5agZO4Umv--31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--29" value="Your template should suit your own coding style and doesn&#39;t have to be the same as anyone else&#39;s template, here is a base that you should use.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="346" y="200" width="314" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--31" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c586c0;&quot;&gt;#include&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&amp;lt;bits/stdc++.h&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c586c0;&quot;&gt;using&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;namespace&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;std&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;main&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;&amp;nbsp; &amp;nbsp; // freopen(&quot;addin.txt&quot;, &quot;r&quot;, stdin);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;&amp;nbsp; &amp;nbsp; // freopen(&quot;addout.txt&quot;, &quot;w&quot;, stdout); &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;&amp;nbsp; &amp;nbsp; // your input and output files.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;cin&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;sync_with_stdio&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;false&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;);&lt;/span&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;// these two just make cin/cout faster&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;cin&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;tie&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #b5cea8;&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;);&lt;/span&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;// how they work isn&#39;t important&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="310" y="320" width="386" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--32" target="pqviuhFqOC5agZO4Umv--31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--32" value="The two &quot;freopen&quot; lines specify the input and output files, essentially they replace your cin and cout with the files specified, only required for orac problems that don&#39;t use standard in and standard out as the input and output. The #include &amp;lt;bits/stdc++.h&amp;gt; basically imports all the libraries you would need and the &quot;using namespace std;&quot; lets you not have to type std:: in front of everything : )." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="370" width="300" height="120" as="geometry" />
+        </mxCell>
+        <UserObject label="Learn how to cin/cout" id="pqviuhFqOC5agZO4Umv--38">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="1070" y="380" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pqviuhFqOC5agZO4Umv--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqviuhFqOC5agZO4Umv--40" target="pqviuhFqOC5agZO4Umv--38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqviuhFqOC5agZO4Umv--40" value="Cin will read the first string,int,char(whichever type the variable that your writing to is), same for cout. Note that cout cannot print out all data structures, and that you should instead iterate through what your trying to print using a for loop." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="377.5" width="280" height="65" as="geometry" />
+        </mxCell>
+        <UserObject label="Do your first Orac problem" link="https://orac.amt.edu.au/problem/332/" id="pqviuhFqOC5agZO4Umv--42">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="920" y="520" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
